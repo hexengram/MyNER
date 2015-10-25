@@ -1,1018 +1,404 @@
-username -AaaaaAaaaaaa000 -AaAa0
-AAAAAA A
-A
-AA A
-AAAAAAA A
-AAAAAAAAA A
-AAAAA A
-AA A
-AAAAAAA A
-AAAAAAA A
-AA A
-AAAAAA A isRegion
-Aaa Aa
-aa a
-link aaaa---a-aa-AAaaAAaAa0 a-a-a-AaAaAa0
+@FitriNuraini102 @fitrinuraini102 wordLength:16 -AaaaaAaaaaaa000 -AaAa0 102
+MENTARI mentari wordLength:7 AAAAAAA A 1stLeftWord:@fitrinuraini102 1stLeftPostag:stanfordPostag:uh ari
+DE de wordLength:2 AA A 1stLeftWord:mentari 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:@fitrinuraini102 2ndLeftPostag:stanfordPostag:uh isStopword deh
+MARELLE marelle wordLength:7 AAAAAAA A 1stLeftWord:de 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:mentari 2ndLeftPostag:stanfordPostag:uh lle
+DIGANDENG digandeng wordLength:9 AAAAAAAAA A 1stLeftWord:marelle 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:de 2ndLeftPostag:stanfordPostag:uh eng
+MESRA mesra wordLength:5 AAAAA A 1stLeftWord:digandeng 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:marelle 2ndLeftPostag:stanfordPostag:uh sra
+AL al wordLength:2 AA A 1stLeftWord:mesra 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:digandeng 2ndLeftPostag:stanfordPostag:uh
+GHAZALI ghazali wordLength:7 AAAAAAA A 1stLeftWord:al 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:mesra 2ndLeftPostag:stanfordPostag:uh ali
+SEBULAN sebulan wordLength:7 AAAAAAA A 1stLeftWord:ghazali 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:al 2ndLeftPostag:stanfordPostag:uh lan
+DI di wordLength:2 AA A 1stLeftWord:sebulan 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:ghazali 2ndLeftPostag:stanfordPostag:uh isStopword
+ITALIA italia wordLength:6 AAAAAA A 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:sebulan 2ndLeftPostag:stanfordPostag:@ isRegion lia
+Cek cek wordLength:3 Aaa Aa 1stLeftWord:italia 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in isStopword
+di wordLength:2 aa a 1stLeftWord:cek 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:italia 2ndLeftPostag:stanfordPostag:nn isStopword
+http://t.co/YResJZoMy4 http://t.co/yresjzomy4 wordLength:22 aaaa---a-aa-AAaaAAaAa0 a-a-a-AaAaAa0 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:cek 2ndLeftPostag:stanfordPostag:nn my4
 
-Aaaaaaa Aa
-Aaaa Aa
-Aaaaaaaaa Aa isRegion
-Aaaaa Aa
-Aaaaaaaaaa Aa
-aaaaaa a
-Aaaaaaa Aa
-AAA A
--
-Aaaaaa Aa
-aaaaaaaaa a
-Aaaa Aa
-Aaaaaaaaa Aa isRegion
-0000 0
-aaaaa a
-aaaaa a
---- -
--
--
--
--
--
--
--
--
-A-- A-
+Finalis finalis wordLength:7 Aaaaaaa Aa lis
+Miss miss wordLength:4 Aaaa Aa 1stLeftWord:finalis 1stLeftPostag:stanfordPostag:g iss
+Indonesia indonesia wordLength:9 Aaaaaaaaa Aa 1stLeftWord:miss 1stLeftPostag:stanfordPostag:g 2ndLeftWord:finalis 2ndLeftPostag:stanfordPostag:g isRegion sia
+Aktif aktif wordLength:5 Aaaaa Aa 1stLeftWord:indonesia 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:miss 2ndLeftPostag:stanfordPostag:g tif
+Berdiskusi berdiskusi wordLength:10 Aaaaaaaaaa Aa 1stLeftWord:aktif 1stLeftPostag:stanfordPostag:g 2ndLeftWord:indonesia 2ndLeftPostag:stanfordPostag:nnp usi
+dengan wordLength:6 aaaaaa a 1stLeftWord:berdiskusi 1stLeftPostag:stanfordPostag:g 2ndLeftWord:aktif 2ndLeftPostag:stanfordPostag:g isStopword gan
+Pemprov pemprov wordLength:7 Aaaaaaa Aa 1stLeftWord:dengan 1stLeftPostag:stanfordPostag:in 2ndLeftWord:berdiskusi 2ndLeftPostag:stanfordPostag:g rov
+DKI dki wordLength:3 AAA A 1stLeftWord:pemprov 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:dengan 2ndLeftPostag:stanfordPostag:in
+: wordLength:1 - 1stLeftWord:dki 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:pemprov 2ndLeftPostag:stanfordPostag:nnp
+Agenda agenda wordLength:6 Aaaaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:g 2ndLeftWord:dki 2ndLeftPostag:stanfordPostag:nnp nda
+karantina wordLength:9 aaaaaaaaa a 1stLeftWord:agenda 1stLeftPostag:stanfordPostag:g 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:g ina
+Miss miss wordLength:4 Aaaa Aa 1stLeftWord:karantina 1stLeftPostag:stanfordPostag:g 2ndLeftWord:agenda 2ndLeftPostag:stanfordPostag:g iss
+Indonesia indonesia wordLength:9 Aaaaaaaaa Aa 1stLeftWord:miss 1stLeftPostag:stanfordPostag:g 2ndLeftWord:karantina 2ndLeftPostag:stanfordPostag:g isRegion sia
+2015 wordLength:4 0000 0 1stLeftWord:indonesia 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:miss 2ndLeftPostag:stanfordPostag:g 015
+diisi wordLength:5 aaaaa a 1stLeftWord:2015 1stLeftPostag:stanfordPostag:g 2ndLeftWord:indonesia 2ndLeftPostag:stanfordPostag:nnp isi
+audie wordLength:5 aaaaa a 1stLeftWord:diisi 1stLeftPostag:stanfordPostag:g 2ndLeftWord:2015 2ndLeftPostag:stanfordPostag:g die
+... wordLength:3 --- - 1stLeftWord:audie 1stLeftPostag:stanfordPostag:g 2ndLeftWord:diisi 2ndLeftPostag:stanfordPostag:g
+? wordLength:1 - 1stLeftWord:... 1stLeftPostag:stanfordPostag:, 2ndLeftWord:audie 2ndLeftPostag:stanfordPostag:g
+? wordLength:1 - 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:... 2ndLeftPostag:stanfordPostag:,
+? wordLength:1 - 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:,
+? wordLength:1 - 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:,
+? wordLength:1 - 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:,
+? wordLength:1 - 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:,
+? wordLength:1 - 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:,
+? wordLength:1 - 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:,
+B-) b-) wordLength:3 A-- A- 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:,
 
-Aaaaaaa Aa
-Aaaaaa Aa
--
-Aaaaa Aa
-Aaaaaa Aa
--
-Aaa Aa
-Aaaaaa Aa
-Aaaaaa Aa
-Aaaaaa Aa
-Aaaaaa Aa
-Aaa Aa
-Aaaaaa Aa
--
-Aaaa Aa
-aaaaaaaaaa a
--
-aaaaaa a
-aaaaa a
-aaaaaa a
---- -
-link aaaa---a-aa-AAaaAaaAA0 a-a-a-AaAaA0
+Polemik polemik wordLength:7 Aaaaaaa Aa mik
+Proton proton wordLength:6 Aaaaaa Aa 1stLeftWord:polemik 1stLeftPostag:stanfordPostag:@ ton
+: wordLength:1 - 1stLeftWord:proton 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:polemik 2ndLeftPostag:stanfordPostag:@
+Menko menko wordLength:5 Aaaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:, 2ndLeftWord:proton 2ndLeftPostag:stanfordPostag:@ nko
+Sofyan sofyan wordLength:6 Aaaaaa Aa 1stLeftWord:menko 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:, yan
+: wordLength:1 - 1stLeftWord:sofyan 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:menko 2ndLeftPostag:stanfordPostag:vb
+Pak pak wordLength:3 Aaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:, 2ndLeftWord:sofyan 2ndLeftPostag:stanfordPostag:vb isStopword
+Jokowi jokowi wordLength:6 Aaaaaa Aa 1stLeftWord:pak 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:, owi
+Selalu selalu wordLength:6 Aaaaaa Aa 1stLeftWord:jokowi 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:pak 2ndLeftPostag:stanfordPostag:nn isStopword alu
+Bilang bilang wordLength:6 Aaaaaa Aa 1stLeftWord:selalu 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:jokowi 2ndLeftPostag:stanfordPostag:nnp ang
+Esemka esemka wordLength:6 Aaaaaa Aa 1stLeftWord:bilang 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:selalu 2ndLeftPostag:stanfordPostag:rb mka
+Itu itu wordLength:3 Aaa Aa 1stLeftWord:esemka 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:bilang 2ndLeftPostag:stanfordPostag:vb isStopword
+Mobnas mobnas wordLength:6 Aaaaaa Aa 1stLeftWord:itu 1stLeftPostag:stanfordPostag:dt 2ndLeftWord:esemka 2ndLeftPostag:stanfordPostag:nn nas
+: wordLength:1 - 1stLeftWord:mobnas 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:itu 2ndLeftPostag:stanfordPostag:dt
+Bagi bagi wordLength:4 Aaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:g 2ndLeftWord:mobnas 2ndLeftPostag:stanfordPostag:vb isStopword agi
+pemerintah wordLength:10 aaaaaaaaaa a 1stLeftWord:bagi 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:g isStopword tah
+, wordLength:1 - 1stLeftWord:pemerintah 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:bagi 2ndLeftPostag:stanfordPostag:vb
+konsep wordLength:6 aaaaaa a 1stLeftWord:, 1stLeftPostag:stanfordPostag:, 2ndLeftWord:pemerintah 2ndLeftPostag:stanfordPostag:nn sep
+mobil wordLength:5 aaaaa a 1stLeftWord:konsep 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:, 2ndLeftPostag:stanfordPostag:, bil
+nasion wordLength:6 aaaaaa a 1stLeftWord:mobil 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:konsep 2ndLeftPostag:stanfordPostag:nn ion
+... wordLength:3 --- - 1stLeftWord:nasion 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:mobil 2ndLeftPostag:stanfordPostag:nn
+http://t.co/TFoeOuqXH7 http://t.co/tfoeouqxh7 wordLength:22 aaaa---a-aa-AAaaAaaAA0 a-a-a-AaAaA0 1stLeftWord:... 1stLeftPostag:stanfordPostag:~ 2ndLeftWord:nasion 2ndLeftPostag:stanfordPostag:nn xh7
 
-username -aaaaaaaaaa-00 -a-0
-Aaaaa-aaaaa Aa-a
-Aaaaaaa Aa
-aaaaaaaa a
-AaaAaaa AaAa
-aaaaaaa a
-AAAA A
-Aaa Aa
-aa a
-link aaaa---a-aa-0aAAAAAAaA a-a-a-0aAaA
+@leejongsuk_85 wordLength:14 -aaaaaaaaaa-00 -a-0 _85
+Detik-detik detik-detik wordLength:11 Aaaaa-aaaaa Aa-a 1stLeftWord:@leejongsuk_85 1stLeftPostag:stanfordPostag:vb tik
+Sebelum sebelum wordLength:7 Aaaaaaa Aa 1stLeftWord:detik-detik 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:@leejongsuk_85 2ndLeftPostag:stanfordPostag:vb isStopword lum
+jatuhnya wordLength:8 aaaaaaaa a 1stLeftWord:sebelum 1stLeftPostag:stanfordPostag:in 2ndLeftWord:detik-detik 2ndLeftPostag:stanfordPostag:nn nya
+AirAsia airasia wordLength:7 AaaAaaa AaAa 1stLeftWord:jatuhnya 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:sebelum 2ndLeftPostag:stanfordPostag:in sia
+melalui wordLength:7 aaaaaaa a 1stLeftWord:airasia 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:jatuhnya 2ndLeftPostag:stanfordPostag:nn isStopword lui
+CCTV cctv wordLength:4 AAAA A 1stLeftWord:melalui 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:airasia 2ndLeftPostag:stanfordPostag:nn ctv
+Cek cek wordLength:3 Aaa Aa 1stLeftWord:cctv 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:melalui 2ndLeftPostag:stanfordPostag:nn isStopword
+di wordLength:2 aa a 1stLeftWord:cek 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:cctv 2ndLeftPostag:stanfordPostag:nn isStopword
+http://t.co/8kTNZDCQsS http://t.co/8ktnzdcqss wordLength:22 aaaa---a-aa-0aAAAAAAaA a-a-a-0aAaA 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:cek 2ndLeftPostag:stanfordPostag:nnp qss
 
-Aaa Aa
-Aaaaaa Aa
-Aaaaa Aa
-Aaaa Aa
-aa a
-Aaaaaa Aa
-Aaaaaa Aa
-Aaa Aa
-Aaaaaa Aa
-Aaaaa Aa
-Aaaaa Aa
-Aaaaaa Aa
-Aaaaaa Aa
-link aaaa---a-aa-AAAAaaA0Aa a-a-a-AaA0Aa
--
-Aaaa Aa
-Aaaaa Aa
+Ini ini wordLength:3 Aaa Aa isStopword
+Alasan alasan wordLength:6 Aaaaaa Aa 1stLeftWord:ini 1stLeftPostag:stanfordPostag:dt san
+Orang orang wordLength:5 Aaaaa Aa 1stLeftWord:alasan 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:ini 2ndLeftPostag:stanfordPostag:dt ang
+Kaya kaya wordLength:4 Aaaa Aa 1stLeftWord:orang 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:alasan 2ndLeftPostag:stanfordPostag:nn aya
+di wordLength:2 aa a 1stLeftWord:kaya 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:orang 2ndLeftPostag:stanfordPostag:nn isStopword
+Kelapa kelapa wordLength:6 Aaaaaa Aa 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:kaya 2ndLeftPostag:stanfordPostag:nnp apa
+Gading gading wordLength:6 Aaaaaa Aa 1stLeftWord:kelapa 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in ing
+Tak tak wordLength:3 Aaa Aa 1stLeftWord:gading 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:kelapa 2ndLeftPostag:stanfordPostag:nnp isStopword tidak
+Pindah pindah wordLength:6 Aaaaaa Aa 1stLeftWord:tak 1stLeftPostag:stanfordPostag:neg 2ndLeftWord:gading 2ndLeftPostag:stanfordPostag:nnp dah
+Rumah rumah wordLength:5 Aaaaa Aa 1stLeftWord:pindah 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:tak 2ndLeftPostag:stanfordPostag:neg mah
+Meski meski wordLength:5 Aaaaa Aa 1stLeftWord:rumah 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:pindah 2ndLeftPostag:stanfordPostag:vb isStopword ski
+Sering sering wordLength:6 Aaaaaa Aa 1stLeftWord:meski 1stLeftPostag:stanfordPostag:sc 2ndLeftWord:rumah 2ndLeftPostag:stanfordPostag:nn isStopword ing
+Banjir banjir wordLength:6 Aaaaaa Aa 1stLeftWord:sering 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:meski 2ndLeftPostag:stanfordPostag:sc jir
+http://t.co/TVNSpgY1Xx http://t.co/tvnspgy1xx wordLength:22 aaaa---a-aa-AAAAaaA0Aa a-a-a-AaA0Aa 1stLeftWord:banjir 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:sering 2ndLeftPostag:stanfordPostag:rb 1xx
+� wordLength:1 - 1stLeftWord:http://t.co/tvnspgy1xx 1stLeftPostag:stanfordPostag:g 2ndLeftWord:banjir 2ndLeftPostag:stanfordPostag:jj
+News news wordLength:4 Aaaa Aa 1stLeftWord:� 1stLeftPostag:stanfordPostag:g 2ndLeftWord:http://t.co/tvnspgy1xx 2ndLeftPostag:stanfordPostag:g ews
+Detik detik wordLength:5 Aaaaa Aa 1stLeftWord:news 1stLeftPostag:stanfordPostag:g 2ndLeftWord:� 2ndLeftPostag:stanfordPostag:g tik
 
-username -aaaAaaaaaaAaaa -aAaAa
-Aa
--
-aaaa a
-aa a
-aaaaaa-aa a-a
-aa a
-aaaaaaaa a
-aaa a
--
-aaaa a
-aaa a
-aaaaaa a
-aaa a
-link aaaa---a-aa-A0aaaaAAAA a-a-a-A0aA
+@iniMentionSimi @inimentionsimi wordLength:15 -aaaAaaaaaaAaaa -aAaAa imi
+Eh eh wordLength:2 Aa 1stLeftWord:@inimentionsimi 1stLeftPostag:stanfordPostag:@ isStopword
+, wordLength:1 - 1stLeftWord:eh 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:@inimentionsimi 2ndLeftPostag:stanfordPostag:@
+kamu wordLength:4 aaaa a 1stLeftWord:, 1stLeftPostag:stanfordPostag:, 2ndLeftWord:eh 2ndLeftPostag:stanfordPostag:uh isStopword amu
+di wordLength:2 aa a 1stLeftWord:kamu 1stLeftPostag:stanfordPostag:pr 2ndLeftWord:, 2ndLeftPostag:stanfordPostag:, isStopword
+berita-in wordLength:9 aaaaaa-aa a-a 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:kamu 2ndLeftPostag:stanfordPostag:pr -in
+di wordLength:2 aa a 1stLeftWord:berita-in 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in isStopword
+detikcom wordLength:8 aaaaaaaa a 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:berita-in 2ndLeftPostag:stanfordPostag:nn com
+tuh wordLength:3 aaa a 1stLeftWord:detikcom 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in isStopword
+, wordLength:1 - 1stLeftWord:tuh 1stLeftPostag:stanfordPostag:rp 2ndLeftWord:detikcom 2ndLeftPostag:stanfordPostag:nn
+coba wordLength:4 aaaa a 1stLeftWord:, 1stLeftPostag:stanfordPostag:, 2ndLeftWord:tuh 2ndLeftPostag:stanfordPostag:rp oba
+cek wordLength:3 aaa a 1stLeftWord:coba 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:, 2ndLeftPostag:stanfordPostag:, isStopword
+disini wordLength:6 aaaaaa a 1stLeftWord:cek 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:coba 2ndLeftPostag:stanfordPostag:vb ini
+deh wordLength:3 aaa a 1stLeftWord:disini 1stLeftPostag:stanfordPostag:pr 2ndLeftWord:cek 2ndLeftPostag:stanfordPostag:vb isStopword
+http://t.co/T6wavzUQSW http://t.co/t6wavzuqsw wordLength:22 aaaa---a-aa-A0aaaaAAAA a-a-a-A0aA 1stLeftWord:deh 1stLeftPostag:stanfordPostag:rp 2ndLeftWord:disini 2ndLeftPostag:stanfordPostag:pr qsw
 
-Aaaaaaa Aa
-Aaaaaaa Aa
-aa a
-Aaaa Aa
-Aaaa Aa
-Aaaaaaa Aa
-Aaaaaaaa Aa
-link aaaa---a-aa-00a00aAAA a-a-a-0a0aA
-A
+Majikan majikan wordLength:7 Aaaaaaa Aa kan
+Erwiana erwiana wordLength:7 Aaaaaaa Aa 1stLeftWord:majikan 1stLeftPostag:stanfordPostag:g ana
+di wordLength:2 aa a 1stLeftWord:erwiana 1stLeftPostag:stanfordPostag:g 2ndLeftWord:majikan 2ndLeftPostag:stanfordPostag:g isStopword
+Hong hong wordLength:4 Aaaa Aa 1stLeftWord:di 1stLeftPostag:stanfordPostag:g 2ndLeftWord:erwiana 2ndLeftPostag:stanfordPostag:g ong
+Kong kong wordLength:4 Aaaa Aa 1stLeftWord:hong 1stLeftPostag:stanfordPostag:g 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:g ong
+Divonis divonis wordLength:7 Aaaaaaa Aa 1stLeftWord:kong 1stLeftPostag:stanfordPostag:g 2ndLeftWord:hong 2ndLeftPostag:stanfordPostag:g nis
+Bersalah bersalah wordLength:8 Aaaaaaaa Aa 1stLeftWord:divonis 1stLeftPostag:stanfordPostag:g 2ndLeftWord:kong 2ndLeftPostag:stanfordPostag:g lah
+http://t.co/14a55hPAM http://t.co/14a55hpam wordLength:21 aaaa---a-aa-00a00aAAA a-a-a-0a0aA 1stLeftWord:bersalah 1stLeftPostag:stanfordPostag:g 2ndLeftWord:divonis 2ndLeftPostag:stanfordPostag:g pam
+I i wordLength:1 A 1stLeftWord:http://t.co/14a55hpam 1stLeftPostag:stanfordPostag:g 2ndLeftWord:bersalah 2ndLeftPostag:stanfordPostag:g isStopword
 
-Aaaaaaaaaaa Aa
--
-Aaaaa Aa
-Aaaaa Aa
-aaaaaa a
-aaaaaaaaa a
--
-Aaaaaaaaa Aa
-Aaaaaaaa Aa
-aaaa0 a0
-aaa a
-aaaaaaaa a
-aa a
-aa a
-Aaaaaaaaa Aa
--
-username -AaaaaAaaa -AaAa
+Kemungkinan kemungkinan wordLength:11 Aaaaaaaaaaa Aa isStopword nan
+, wordLength:1 - 1stLeftWord:kemungkinan 1stLeftPostag:stanfordPostag:nnp
+Insya insya wordLength:5 Aaaaa Aa 1stLeftWord:, 1stLeftPostag:stanfordPostag:, 2ndLeftWord:kemungkinan 2ndLeftPostag:stanfordPostag:nnp sya
+Allah allah wordLength:5 Aaaaa Aa 1stLeftWord:insya 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:, 2ndLeftPostag:stanfordPostag:, lah
+menuju wordLength:6 aaaaaa a 1stLeftWord:allah 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:insya 2ndLeftPostag:stanfordPostag:uh isStopword uju
+kebenaran wordLength:9 aaaaaaaaa a 1stLeftWord:menuju 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:allah 2ndLeftPostag:stanfordPostag:uh ran
+. wordLength:1 - 1stLeftWord:kebenaran 1stLeftPostag:stanfordPostag:uh 2ndLeftWord:menuju 2ndLeftPostag:stanfordPostag:uh
+Kunjungan kunjungan wordLength:9 Aaaaaaaaa Aa 1stLeftWord:. 1stLeftPostag:stanfordPostag:, 2ndLeftWord:kebenaran 2ndLeftPostag:stanfordPostag:uh gan
+Presiden presiden wordLength:8 Aaaaaaaa Aa 1stLeftWord:kunjungan 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:. 2ndLeftPostag:stanfordPostag:, den
+baru2 wordLength:5 aaaa0 a0 1stLeftWord:presiden 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:kunjungan 2ndLeftPostag:stanfordPostag:vb ru2
+ini wordLength:3 aaa a 1stLeftWord:baru2 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:presiden 2ndLeftPostag:stanfordPostag:vb isStopword
+bukankah wordLength:8 aaaaaaaa a 1stLeftWord:ini 1stLeftPostag:stanfordPostag:dt 2ndLeftWord:baru2 2ndLeftPostag:stanfordPostag:nn kah
+jg wordLength:2 aa a 1stLeftWord:bukankah 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:ini 2ndLeftPostag:stanfordPostag:dt isStopword juga
+ke wordLength:2 aa a 1stLeftWord:jg 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:bukankah 2ndLeftPostag:stanfordPostag:vb isStopword
+Fhilipina fhilipina wordLength:9 Aaaaaaaaa Aa 1stLeftWord:ke 1stLeftPostag:stanfordPostag:in 2ndLeftWord:jg 2ndLeftPostag:stanfordPostag:rb ina
+? wordLength:1 - 1stLeftWord:fhilipina 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:ke 2ndLeftPostag:stanfordPostag:in
+@SahidPost @sahidpost wordLength:10 -AaaaaAaaa -AaAa 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:fhilipina 2ndLeftPostag:stanfordPostag:nnp ost
 
-Aaaaaa Aa
-Aaa Aa
-Aaaaaaaaa Aa
-Aaaaaaaa Aa
-aa a
-Aaaaaaaa Aa
-Aaaa Aa
-Aaaaaaa Aa
-Aaaaa Aa
-link aaaa---a-aa-aAAAaaAaaA a-a-a-aAaAaA
+Murray murray wordLength:6 Aaaaaa Aa ray
+Tak tak wordLength:3 Aaa Aa 1stLeftWord:murray 1stLeftPostag:stanfordPostag:uh isStopword tidak
+Menyangka menyangka wordLength:9 Aaaaaaaaa Aa 1stLeftWord:tak 1stLeftPostag:stanfordPostag:neg 2ndLeftWord:murray 2ndLeftPostag:stanfordPostag:uh gka
+Sentilan sentilan wordLength:8 Aaaaaaaa Aa 1stLeftWord:menyangka 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:tak 2ndLeftPostag:stanfordPostag:neg lan
+ke wordLength:2 aa a 1stLeftWord:sentilan 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:menyangka 2ndLeftPostag:stanfordPostag:vb isStopword
+Djokovic djokovic wordLength:8 Aaaaaaaa Aa 1stLeftWord:ke 1stLeftPostag:stanfordPostag:in 2ndLeftWord:sentilan 2ndLeftPostag:stanfordPostag:vb vic
+Jadi jadi wordLength:4 Aaaa Aa 1stLeftWord:djokovic 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:ke 2ndLeftPostag:stanfordPostag:in isStopword adi
+Masalah masalah wordLength:7 Aaaaaaa Aa 1stLeftWord:jadi 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:djokovic 2ndLeftPostag:stanfordPostag:nn isStopword lah
+Besar besar wordLength:5 Aaaaa Aa 1stLeftWord:masalah 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:jadi 2ndLeftPostag:stanfordPostag:vb isStopword sar
+http://t.co/pTHAlkNpuQ http://t.co/pthalknpuq wordLength:22 aaaa---a-aa-aAAAaaAaaA a-a-a-aAaAaA 1stLeftWord:besar 1stLeftPostag:stanfordPostag:e 2ndLeftWord:masalah 2ndLeftPostag:stanfordPostag:nn puq
 
-aaaaaaaaa a
-aaaaaaaa a
-username -aaaaaaa-aaa00 -a-a0
-aaaaaa a
-aaaaaa a
-aaa a
-aaaaa a
-aaaaaaa a
-aa a
-Aaaaaaaaa Aa isRegion
--0
-hashtag -AAA00aaAaaaaaAaaaaaaaAAA00 -A0aAaAaA0
+otanjoubi wordLength:9 aaaaaaaaa a ubi
+omedetou wordLength:8 aaaaaaaa a 1stLeftWord:otanjoubi 1stLeftPostag:stanfordPostag:@ tou
+@harukan_jkt48 wordLength:14 -aaaaaaa-aaa00 -a-a0 1stLeftWord:omedetou 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:otanjoubi 2ndLeftPostag:stanfordPostag:@ t48
+tambah wordLength:6 aaaaaa a 1stLeftWord:@harukan_jkt48 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:omedetou 2ndLeftPostag:stanfordPostag:@ bah
+kawaii wordLength:6 aaaaaa a 1stLeftWord:tambah 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:@harukan_jkt48 2ndLeftPostag:stanfordPostag:@ aii
+dan wordLength:3 aaa a 1stLeftWord:kawaii 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:tambah 2ndLeftPostag:stanfordPostag:rb isStopword
+betah wordLength:5 aaaaa a 1stLeftWord:dan 1stLeftPostag:stanfordPostag:cc 2ndLeftWord:kawaii 2ndLeftPostag:stanfordPostag:jj tah
+tinggal wordLength:7 aaaaaaa a 1stLeftWord:betah 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:dan 2ndLeftPostag:stanfordPostag:cc gal
+di wordLength:2 aa a 1stLeftWord:tinggal 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:betah 2ndLeftPostag:stanfordPostag:jj isStopword
+Indonesia indonesia wordLength:9 Aaaaaaaaa Aa 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:tinggal 2ndLeftPostag:stanfordPostag:vb isRegion sia
+:3 wordLength:2 -0 1stLeftWord:indonesia 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in
+#HBD23thHarukaDoraemonJKT48 #hbd23thharukadoraemonjkt48 wordLength:27 -AAA00aaAaaaaaAaaaaaaaAAA00 -A0aAaAaA0 1stLeftWord::3 1stLeftPostag:stanfordPostag:e 2ndLeftWord:indonesia 2ndLeftPostag:stanfordPostag:nnp t48
 
-Aaaaaa Aa
-Aaaaaaaaa Aa
-Aaaaa Aa
-Aaaaa Aa
-Aaaaaaaa Aa
-Aaaa Aa
-Aaaaa Aa
-0
--
-Aaaaaaaaaa Aa
-aaaaaa a
-aa a
-aaaa a
-aaaaaa a
-aaaaaaa a
--
-link aaaa---a-aa-AAAaa0Aaaa a-a-a-Aa0Aa
+Alasan alasan wordLength:6 Aaaaaa Aa san
+Kejaksaan kejaksaan wordLength:9 Aaaaaaaaa Aa 1stLeftWord:alasan 1stLeftPostag:stanfordPostag:@ aan
+Agung agung wordLength:5 Aaaaa Aa 1stLeftWord:kejaksaan 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:alasan 2ndLeftPostag:stanfordPostag:@ ung
+Belum belum wordLength:5 Aaaaa Aa 1stLeftWord:agung 1stLeftPostag:stanfordPostag:pr 2ndLeftWord:kejaksaan 2ndLeftPostag:stanfordPostag:nn isStopword lum
+Eksekusi eksekusi wordLength:8 Aaaaaaaa Aa 1stLeftWord:belum 1stLeftPostag:stanfordPostag:neg 2ndLeftWord:agung 2ndLeftPostag:stanfordPostag:pr usi
+Mati mati wordLength:4 Aaaa Aa 1stLeftWord:eksekusi 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:belum 2ndLeftPostag:stanfordPostag:neg ati
+Tahap tahap wordLength:5 Aaaaa Aa 1stLeftWord:mati 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:eksekusi 2ndLeftPostag:stanfordPostag:vb hap
+2 wordLength:1 0 1stLeftWord:tahap 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:mati 2ndLeftPostag:stanfordPostag:vb
+: wordLength:1 - 1stLeftWord:2 1stLeftPostag:stanfordPostag:cd 2ndLeftWord:tahap 2ndLeftPostag:stanfordPostag:nn
+Narapidana narapidana wordLength:10 Aaaaaaaaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:g 2ndLeftWord:2 2ndLeftPostag:stanfordPostag:cd ana
+berada wordLength:6 aaaaaa a 1stLeftWord:narapidana 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:g ada
+di wordLength:2 aa a 1stLeftWord:berada 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:narapidana 2ndLeftPostag:stanfordPostag:nn isStopword
+lima wordLength:4 aaaa a 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:berada 2ndLeftPostag:stanfordPostag:vb ima
+lokasi wordLength:6 aaaaaa a 1stLeftWord:lima 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in asi
+berbeda wordLength:7 aaaaaaa a 1stLeftWord:lokasi 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:lima 2ndLeftPostag:stanfordPostag:nn eda
+. wordLength:1 - 1stLeftWord:berbeda 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:lokasi 2ndLeftPostag:stanfordPostag:nn
+http://t.co/RLKxa2Gbkb http://t.co/rlkxa2gbkb wordLength:22 aaaa---a-aa-AAAaa0Aaaa a-a-a-Aa0Aa 1stLeftWord:. 1stLeftPostag:stanfordPostag:, 2ndLeftWord:berbeda 2ndLeftPostag:stanfordPostag:nnp bkb
 
-Aaaaaa Aa
-Aaaaa Aa
-Aaaa Aa
-Aaaaa Aa
-aa a
-Aaaaaaa Aa
-Aaaaaa Aa
-link aaaa---a-aa-aAAAaAAaAa a-a-a-aAaAaAa
-link aaaa---a-aa-aaaaAAaaa0 a-a-a-aAa0
+Begini begini wordLength:6 Aaaaaa Aa ini
+Modus modus wordLength:5 Aaaaa Aa 1stLeftWord:begini 1stLeftPostag:stanfordPostag:@ dus
+Calo calo wordLength:4 Aaaa Aa 1stLeftWord:modus 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:begini 2ndLeftPostag:stanfordPostag:@ alo
+Tiket tiket wordLength:5 Aaaaa Aa 1stLeftWord:calo 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:modus 2ndLeftPostag:stanfordPostag:@ ket
+di wordLength:2 aa a 1stLeftWord:tiket 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:calo 2ndLeftPostag:stanfordPostag:@ isStopword
+Bandara bandara wordLength:7 Aaaaaaa Aa 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:tiket 2ndLeftPostag:stanfordPostag:@ ara
+Soetta soetta wordLength:6 Aaaaaa Aa 1stLeftWord:bandara 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in tta
+http://t.co/xLNAfRWzPl http://t.co/xlnafrwzpl wordLength:22 aaaa---a-aa-aAAAaAAaAa a-a-a-aAaAaAa 1stLeftWord:soetta 1stLeftPostag:stanfordPostag:e 2ndLeftWord:bandara 2ndLeftPostag:stanfordPostag:nnp zpl
+http://t.co/nvgbAPpgr1 http://t.co/nvgbappgr1 wordLength:22 aaaa---a-aa-aaaaAAaaa0 a-a-a-aAa0 1stLeftWord:http://t.co/xlnafrwzpl 1stLeftPostag:stanfordPostag:e 2ndLeftWord:soetta 2ndLeftPostag:stanfordPostag:e gr1
 
-Aaaaa Aa
-Aaaaa Aa
-Aaaaaaaa Aa
-Aaa Aa
-Aaaaaaa Aa
-Aaaaaaa Aa
-Aaaaaaa Aa
-aa a
-Aaaaaaaaaaaaa Aa
--
-Aaaaaaaa Aa
-aaaaaaaaaa a
-aaaa a
-aaaaaaaaaaaa a
-aaaa a
---- -
-link aaaa---a-aa-Aa0a0A0aAa a-a-a-Aa0a0A0aAa
+Jaksa jaksa wordLength:5 Aaaaa Aa ksa
+Agung agung wordLength:5 Aaaaa Aa 1stLeftWord:jaksa 1stLeftPostag:stanfordPostag:@ ung
+Pastikan pastikan wordLength:8 Aaaaaaaa Aa 1stLeftWord:agung 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:jaksa 2ndLeftPostag:stanfordPostag:@ kan
+Dor dor wordLength:3 Aaa Aa 1stLeftWord:pastikan 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:agung 2ndLeftPostag:stanfordPostag:@
+Seluruh seluruh wordLength:7 Aaaaaaa Aa 1stLeftWord:dor 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:pastikan 2ndLeftPostag:stanfordPostag:@ isStopword ruh
+Gembong gembong wordLength:7 Aaaaaaa Aa 1stLeftWord:seluruh 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:dor 2ndLeftPostag:stanfordPostag:@ ong
+Narkoba narkoba wordLength:7 Aaaaaaa Aa 1stLeftWord:gembong 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:seluruh 2ndLeftPostag:stanfordPostag:@ oba
+di wordLength:2 aa a 1stLeftWord:narkoba 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:gembong 2ndLeftPostag:stanfordPostag:@ isStopword
+Nusakambangan nusakambangan wordLength:13 Aaaaaaaaaaaaa Aa 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:narkoba 2ndLeftPostag:stanfordPostag:@ gan
+: wordLength:1 - 1stLeftWord:nusakambangan 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in
+Prasetyo prasetyo wordLength:8 Aaaaaaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:, 2ndLeftWord:nusakambangan 2ndLeftPostag:stanfordPostag:nnp tyo
+memastikan wordLength:10 aaaaaaaaaa a 1stLeftWord:prasetyo 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:, kan
+akan wordLength:4 aaaa a 1stLeftWord:memastikan 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:prasetyo 2ndLeftPostag:stanfordPostag:nnp isStopword kan
+mengeksekusi wordLength:12 aaaaaaaaaaaa a 1stLeftWord:akan 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:memastikan 2ndLeftPostag:stanfordPostag:nnp usi
+mati wordLength:4 aaaa a 1stLeftWord:mengeksekusi 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:akan 2ndLeftPostag:stanfordPostag:vb ati
+... wordLength:3 --- - 1stLeftWord:mati 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:mengeksekusi 2ndLeftPostag:stanfordPostag:vb
+http://t.co/Ux4i0V4dIe http://t.co/ux4i0v4die wordLength:22 aaaa---a-aa-Aa0a0A0aAa a-a-a-Aa0a0A0aAa 1stLeftWord:... 1stLeftPostag:stanfordPostag:~ 2ndLeftWord:mati 2ndLeftPostag:stanfordPostag:vb die
 
-Aaaaaaaa Aa
--
-Aaaaaaaaa Aa
-Aaaaaa Aa
-aaaaaaa a
--
-Aaaaaaaa Aa
-Aaaaaaaaa- Aa-
-Aaaaaa Aa
-Aaaaa Aa
-Aaaaaaa Aa
-link aaaa---a-aa-a000AA0AA0 a-a-a-a0A0A0
-link aaaa---a-aa-AaAa0Aa0AA a-a-a-AaAa0Aa0A
+Ditunggu ditunggu wordLength:8 Aaaaaaaa Aa ggu
+! wordLength:1 - 1stLeftWord:ditunggu 1stLeftPostag:stanfordPostag:uh
+Keputusan keputusan wordLength:9 Aaaaaaaaa Aa 1stLeftWord:! 1stLeftPostag:stanfordPostag:, 2ndLeftWord:ditunggu 2ndLeftPostag:stanfordPostag:uh san
+Jokowi jokowi wordLength:6 Aaaaaa Aa 1stLeftWord:keputusan 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:! 2ndLeftPostag:stanfordPostag:, owi
+sebagai wordLength:7 aaaaaaa a 1stLeftWord:jokowi 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:keputusan 2ndLeftPostag:stanfordPostag:jj isStopword gai
+' wordLength:1 - 1stLeftWord:sebagai 1stLeftPostag:stanfordPostag:sc 2ndLeftWord:jokowi 2ndLeftPostag:stanfordPostag:rb
+Panglima panglima wordLength:8 Aaaaaaaa Aa 1stLeftWord:' 1stLeftPostag:stanfordPostag:, 2ndLeftWord:sebagai 2ndLeftPostag:stanfordPostag:sc ima
+Tertinggi' tertinggi' wordLength:10 Aaaaaaaaa- Aa- 1stLeftWord:panglima 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:' 2ndLeftPostag:stanfordPostag:, gi'
+Perang perang wordLength:6 Aaaaaa Aa 1stLeftWord:tertinggi' 1stLeftPostag:stanfordPostag:g 2ndLeftWord:panglima 2ndLeftPostag:stanfordPostag:nn ang
+Lawan lawan wordLength:5 Aaaaa Aa 1stLeftWord:perang 1stLeftPostag:stanfordPostag:g 2ndLeftWord:tertinggi' 2ndLeftPostag:stanfordPostag:g wan
+Korupsi korupsi wordLength:7 Aaaaaaa Aa 1stLeftWord:lawan 1stLeftPostag:stanfordPostag:g 2ndLeftWord:perang 2ndLeftPostag:stanfordPostag:g psi
+http://t.co/n288MR0UA4 http://t.co/n288mr0ua4 wordLength:22 aaaa---a-aa-a000AA0AA0 a-a-a-a0A0A0 1stLeftWord:korupsi 1stLeftPostag:stanfordPostag:g 2ndLeftWord:lawan 2ndLeftPostag:stanfordPostag:g ua4
+http://t.co/YoIa0Vr3LN http://t.co/yoia0vr3ln wordLength:22 aaaa---a-aa-AaAa0Aa0AA a-a-a-AaAa0Aa0A 1stLeftWord:http://t.co/n288mr0ua4 1stLeftPostag:stanfordPostag:g 2ndLeftWord:korupsi 2ndLeftPostag:stanfordPostag:g 3ln
 
-Aaa Aa
-0
-Aaaa Aa
--
-Aaaaaaaaaaaa Aa
-AAA A
-Aaaa Aa
-Aaaaaa Aa
-Aaaaaa Aa
--
-Aaaaaaaaa Aa
-Aaaaa Aa
-Aaaaa Aa
-aaaa a
-aaaaaaaaaaaaa a
-aaaaaaa a
-aaaaaaaaaaaa a
---- -
-link aaaa---a-aa-AaAaaAaAAa a-a-a-AaAaAaAa
+Per per wordLength:3 Aaa Aa
+1 wordLength:1 0 1stLeftWord:per 1stLeftPostag:stanfordPostag:@
+Juli juli wordLength:4 Aaaa Aa 1stLeftWord:1 1stLeftPostag:stanfordPostag:cd 2ndLeftWord:per 2ndLeftPostag:stanfordPostag:@ uli
+, wordLength:1 - 1stLeftWord:juli 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:1 2ndLeftPostag:stanfordPostag:cd
+Perpanjangan perpanjangan wordLength:12 Aaaaaaaaaaaa Aa 1stLeftWord:, 1stLeftPostag:stanfordPostag:, 2ndLeftWord:juli 2ndLeftPostag:stanfordPostag:nn gan
+SIM sim wordLength:3 AAA A 1stLeftWord:perpanjangan 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:, 2ndLeftPostag:stanfordPostag:,
+Bisa bisa wordLength:4 Aaaa Aa 1stLeftWord:sim 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:perpanjangan 2ndLeftPostag:stanfordPostag:nn isStopword isa
+Secara secara wordLength:6 Aaaaaa Aa 1stLeftWord:bisa 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:sim 2ndLeftPostag:stanfordPostag:jj isStopword ara
+Online online wordLength:6 Aaaaaa Aa 1stLeftWord:secara 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:bisa 2ndLeftPostag:stanfordPostag:vb ine
+: wordLength:1 - 1stLeftWord:online 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:secara 2ndLeftPostag:stanfordPostag:vb
+Korlantas korlantas wordLength:9 Aaaaaaaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:, 2ndLeftWord:online 2ndLeftPostag:stanfordPostag:nn tas
+Mabes mabes wordLength:5 Aaaaa Aa 1stLeftWord:korlantas 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:, bes
+Polri polri wordLength:5 Aaaaa Aa 1stLeftWord:mabes 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:korlantas 2ndLeftPostag:stanfordPostag:nn lri
+akan wordLength:4 aaaa a 1stLeftWord:polri 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:mabes 2ndLeftPostag:stanfordPostag:nnp isStopword kan
+memberlakukan wordLength:13 aaaaaaaaaaaaa a 1stLeftWord:akan 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:polri 2ndLeftPostag:stanfordPostag:nnp kan
+program wordLength:7 aaaaaaa a 1stLeftWord:memberlakukan 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:akan 2ndLeftPostag:stanfordPostag:vb ram
+perpanjangan wordLength:12 aaaaaaaaaaaa a 1stLeftWord:program 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:memberlakukan 2ndLeftPostag:stanfordPostag:vb gan
+... wordLength:3 --- - 1stLeftWord:perpanjangan 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:program 2ndLeftPostag:stanfordPostag:nn
+http://t.co/EnByaOlNLe http://t.co/enbyaolnle wordLength:22 aaaa---a-aa-AaAaaAaAAa a-a-a-AaAaAaAa 1stLeftWord:... 1stLeftPostag:stanfordPostag:~ 2ndLeftWord:perpanjangan 2ndLeftPostag:stanfordPostag:nn nle
 
-Aaaaa Aa
-Aaaaa Aa
-Aaaaaaaa Aa
-Aaa Aa
-Aaaaaaa Aa
-Aaaaaaa Aa
-Aaaaaaa Aa
-aa a
-Aaaaaaaaaaaaa Aa
-link aaaa---a-aa-aaaAAAaAA0 a-a-a-aAaA0
-hashtag -AaaaAaaaa -AaAa
+Jaksa jaksa wordLength:5 Aaaaa Aa ksa
+Agung agung wordLength:5 Aaaaa Aa 1stLeftWord:jaksa 1stLeftPostag:stanfordPostag:@ ung
+Pastikan pastikan wordLength:8 Aaaaaaaa Aa 1stLeftWord:agung 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:jaksa 2ndLeftPostag:stanfordPostag:@ kan
+Dor dor wordLength:3 Aaa Aa 1stLeftWord:pastikan 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:agung 2ndLeftPostag:stanfordPostag:@
+Seluruh seluruh wordLength:7 Aaaaaaa Aa 1stLeftWord:dor 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:pastikan 2ndLeftPostag:stanfordPostag:@ isStopword ruh
+Gembong gembong wordLength:7 Aaaaaaa Aa 1stLeftWord:seluruh 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:dor 2ndLeftPostag:stanfordPostag:@ ong
+Narkoba narkoba wordLength:7 Aaaaaaa Aa 1stLeftWord:gembong 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:seluruh 2ndLeftPostag:stanfordPostag:@ oba
+di wordLength:2 aa a 1stLeftWord:narkoba 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:gembong 2ndLeftPostag:stanfordPostag:@ isStopword
+Nusakambangan nusakambangan wordLength:13 Aaaaaaaaaaaaa Aa 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:narkoba 2ndLeftPostag:stanfordPostag:@ gan
+http://t.co/dhdVLVtEE0 http://t.co/dhdvlvtee0 wordLength:22 aaaa---a-aa-aaaAAAaAA0 a-a-a-aAaA0 1stLeftWord:nusakambangan 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in ee0
+#NewsDetik #newsdetik wordLength:10 -AaaaAaaaa -AaAa 1stLeftWord:http://t.co/dhdvlvtee0 1stLeftPostag:stanfordPostag:u 2ndLeftWord:nusakambangan 2ndLeftPostag:stanfordPostag:nnp tik
 
-hashtag -AAAaaa -Aa
--
-username -aaaaaa-aaa -a-a
--
-aaaaa a
-aaa a
-aaaaaa a
-aa a
-aaaaaa a
-aaaaaaa a isRegion
-aaaaaa a
--
-link aaaa---a-aa-aAa0AAaaaa a-a-a-aAa0Aa
--
+#BDLask #bdlask wordLength:7 -AAAaaa -Aa ask
+| wordLength:1 - 1stLeftWord:#bdlask 1stLeftPostag:stanfordPostag:@
+@rodiah_ssi wordLength:11 -aaaaaa-aaa -a-a 1stLeftWord:| 1stLeftPostag:stanfordPostag:g 2ndLeftWord:#bdlask 2ndLeftPostag:stanfordPostag:@ ssi
+: wordLength:1 - 1stLeftWord:@rodiah_ssi 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:| 2ndLeftPostag:stanfordPostag:g
+nyari wordLength:5 aaaaa a 1stLeftWord:: 1stLeftPostag:stanfordPostag:, 2ndLeftWord:@rodiah_ssi 2ndLeftPostag:stanfordPostag:@ cari ari
+tas wordLength:3 aaa a 1stLeftWord:nyari 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:,
+begini wordLength:6 aaaaaa a 1stLeftWord:tas 1stLeftPostag:stanfordPostag:in 2ndLeftWord:nyari 2ndLeftPostag:stanfordPostag:vb ini
+di wordLength:2 aa a 1stLeftWord:begini 1stLeftPostag:stanfordPostag:dt 2ndLeftWord:tas 2ndLeftPostag:stanfordPostag:in isStopword
+bandar wordLength:6 aaaaaa a 1stLeftWord:di 1stLeftPostag:stanfordPostag:g 2ndLeftWord:begini 2ndLeftPostag:stanfordPostag:dt dar
+lampung wordLength:7 aaaaaaa a 1stLeftWord:bandar 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:g isRegion ung
+dimana wordLength:6 aaaaaa a 1stLeftWord:lampung 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:bandar 2ndLeftPostag:stanfordPostag:vb isStopword ana
+? wordLength:1 - 1stLeftWord:dimana 1stLeftPostag:stanfordPostag:pr 2ndLeftWord:lampung 2ndLeftPostag:stanfordPostag:nn
+http://t.co/eCe3ZEwicz http://t.co/ece3zewicz wordLength:22 aaaa---a-aa-aAa0AAaaaa a-a-a-aAa0Aa 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:dimana 2ndLeftPostag:stanfordPostag:pr icz
+" wordLength:1 - 1stLeftWord:http://t.co/ece3zewicz 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:,
 
-Aaa Aa
-Aaaaaaaaaa Aa
-Aaaaaaaa Aa
-Aaaaaa Aa
-Aaaaaaa Aa
-aa a
-Aaaaaa Aa
--
-Aaaaaaa Aa
-AA A
-Aaaaaaaa Aa
-Aaaaaaaaa Aa isRegion
-aaaaaaaaa a
-aaaaaa a
-aaaaaaaaa a
-aaa a
---- -
-link aaaa---a-aa-a0AAAa00A0 a-a-a-a0Aa0A0
+Ini ini wordLength:3 Aaa Aa isStopword
+Keuntungan keuntungan wordLength:10 Aaaaaaaaaa Aa 1stLeftWord:ini 1stLeftPostag:stanfordPostag:dt gan
+Freeport freeport wordLength:8 Aaaaaaaa Aa 1stLeftWord:keuntungan 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:ini 2ndLeftPostag:stanfordPostag:dt ort
+Bangun bangun wordLength:6 Aaaaaa Aa 1stLeftWord:freeport 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:keuntungan 2ndLeftPostag:stanfordPostag:rb gun
+Smelter smelter wordLength:7 Aaaaaaa Aa 1stLeftWord:bangun 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:freeport 2ndLeftPostag:stanfordPostag:vb ter
+di wordLength:2 aa a 1stLeftWord:smelter 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:bangun 2ndLeftPostag:stanfordPostag:vb isStopword
+Gresik gresik wordLength:6 Aaaaaa Aa 1stLeftWord:di 1stLeftPostag:stanfordPostag:in 2ndLeftWord:smelter 2ndLeftPostag:stanfordPostag:nn sik
+: wordLength:1 - 1stLeftWord:gresik 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:in
+Rencana rencana wordLength:7 Aaaaaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:g 2ndLeftWord:gresik 2ndLeftPostag:stanfordPostag:nn ana
+PT pt wordLength:2 AA A 1stLeftWord:rencana 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:g
+Freeport freeport wordLength:8 Aaaaaaaa Aa 1stLeftWord:pt 1stLeftPostag:stanfordPostag:g 2ndLeftWord:rencana 2ndLeftPostag:stanfordPostag:nn ort
+Indonesia indonesia wordLength:9 Aaaaaaaaa Aa 1stLeftWord:freeport 1stLeftPostag:stanfordPostag:g 2ndLeftWord:pt 2ndLeftPostag:stanfordPostag:g isRegion sia
+membangun wordLength:9 aaaaaaaaa a 1stLeftWord:indonesia 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:freeport 2ndLeftPostag:stanfordPostag:g gun
+pabrik wordLength:6 aaaaaa a 1stLeftWord:membangun 1stLeftPostag:stanfordPostag:g 2ndLeftWord:indonesia 2ndLeftPostag:stanfordPostag:nnp rik
+pemurnian wordLength:9 aaaaaaaaa a 1stLeftWord:pabrik 1stLeftPostag:stanfordPostag:g 2ndLeftWord:membangun 2ndLeftPostag:stanfordPostag:g ian
+dan wordLength:3 aaa a 1stLeftWord:pemurnian 1stLeftPostag:stanfordPostag:g 2ndLeftWord:pabrik 2ndLeftPostag:stanfordPostag:g isStopword
+... wordLength:3 --- - 1stLeftWord:dan 1stLeftPostag:stanfordPostag:cc 2ndLeftWord:pemurnian 2ndLeftPostag:stanfordPostag:g
+http://t.co/g9DWZi96F8 http://t.co/g9dwzi96f8 wordLength:22 aaaa---a-aa-a0AAAa00A0 a-a-a-a0Aa0A0 1stLeftWord:... 1stLeftPostag:stanfordPostag:~ 2ndLeftWord:dan 2ndLeftPostag:stanfordPostag:cc 6f8
 
-Aaaaaaaaa Aa
-Aaaaaaaa Aa
-Aaaa Aa
-Aaaaa Aa
-Aaaaaaa Aa
-Aaaa Aa
-aa a
-Aaaaaa Aa
-link aaaa---a-aa-aA0AAaaaAA a-a-a-aA0AaA
+Kompolnas kompolnas wordLength:9 Aaaaaaaaa Aa nas
+Serahkan serahkan wordLength:8 Aaaaaaaa Aa 1stLeftWord:kompolnas 1stLeftPostag:stanfordPostag:@ kan
+Nama nama wordLength:4 Aaaa Aa 1stLeftWord:serahkan 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:kompolnas 2ndLeftPostag:stanfordPostag:@ ama
+Calon calon wordLength:5 Aaaaa Aa 1stLeftWord:nama 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:serahkan 2ndLeftPostag:stanfordPostag:nnp lon
+Kapolri kapolri wordLength:7 Aaaaaaa Aa 1stLeftWord:calon 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:nama 2ndLeftPostag:stanfordPostag:nnp lri
+Baru baru wordLength:4 Aaaa Aa 1stLeftWord:kapolri 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:calon 2ndLeftPostag:stanfordPostag:nnp isStopword aru
+ke wordLength:2 aa a 1stLeftWord:baru 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:kapolri 2ndLeftPostag:stanfordPostag:nnp isStopword
+Jokowi jokowi wordLength:6 Aaaaaa Aa 1stLeftWord:ke 1stLeftPostag:stanfordPostag:in 2ndLeftWord:baru 2ndLeftPostag:stanfordPostag:nnp owi
+http://t.co/wM5QKaytJS http://t.co/wm5qkaytjs wordLength:22 aaaa---a-aa-aA0AAaaaAA a-a-a-aA0AaA 1stLeftWord:jokowi 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:ke 2ndLeftPostag:stanfordPostag:in tjs
 
-Aaaa Aa
-aaaa a
-aaaaa a
-aaa a
-Aaaaa Aa
-aaaaaa a
-Aaaaaaa Aa isRegion
-AAAAAA A
--
--
-Aaaaaa Aa
-aaa a
-aa a
-aaaaa a
-aaaaaa a
-Aaaa Aa
-Aaaaa Aa
--
--
-Aaaaaaa Aa
-aaaaa a
--
--
--- -
--aaaaaaaaa- -a-
--
-username -aaaaaaaaaaa -a
+Ahoj ahoj wordLength:4 Aaaa Aa hoj
+udah wordLength:4 aaaa a 1stLeftWord:ahoj 1stLeftPostag:stanfordPostag:@ isStopword sudah dah
+ngaku wordLength:5 aaaaa a 1stLeftWord:udah 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:ahoj 2ndLeftPostag:stanfordPostag:@ aku
+dia wordLength:3 aaa a 1stLeftWord:ngaku 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:udah 2ndLeftPostag:stanfordPostag:rb isStopword
+Salah salah wordLength:5 Aaaaa Aa 1stLeftWord:dia 1stLeftPostag:stanfordPostag:pr 2ndLeftWord:ngaku 2ndLeftPostag:stanfordPostag:vb isStopword lah
+karena wordLength:6 aaaaaa a 1stLeftWord:salah 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:dia 2ndLeftPostag:stanfordPostag:pr isStopword ena
+Jakarta jakarta wordLength:7 Aaaaaaa Aa 1stLeftWord:karena 1stLeftPostag:stanfordPostag:sc 2ndLeftWord:salah 2ndLeftPostag:stanfordPostag:jj isRegion rta
+BANJIR banjir wordLength:6 AAAAAA A 1stLeftWord:jakarta 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:karena 2ndLeftPostag:stanfordPostag:sc jir
+! wordLength:1 - 1stLeftWord:banjir 1stLeftPostag:stanfordPostag:g 2ndLeftWord:jakarta 2ndLeftPostag:stanfordPostag:nnp
+! wordLength:1 - 1stLeftWord:! 1stLeftPostag:stanfordPostag:, 2ndLeftWord:banjir 2ndLeftPostag:stanfordPostag:g
+Kenapa kenapa wordLength:6 Aaaaaa Aa 1stLeftWord:! 1stLeftPostag:stanfordPostag:, 2ndLeftWord:! 2ndLeftPostag:stanfordPostag:, isStopword apa
+elu wordLength:3 aaa a 1stLeftWord:kenapa 1stLeftPostag:stanfordPostag:pr 2ndLeftWord:! 2ndLeftPostag:stanfordPostag:,
+yg wordLength:2 aa a 1stLeftWord:elu 1stLeftPostag:stanfordPostag:pr 2ndLeftWord:kenapa 2ndLeftPostag:stanfordPostag:pr isStopword yang
+repot wordLength:5 aaaaa a 1stLeftWord:yg 1stLeftPostag:stanfordPostag:sc 2ndLeftWord:elu 2ndLeftPostag:stanfordPostag:pr pot
+belain wordLength:6 aaaaaa a 1stLeftWord:repot 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:yg 2ndLeftPostag:stanfordPostag:sc ain
+Ahok ahok wordLength:4 Aaaa Aa 1stLeftWord:belain 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:repot 2ndLeftPostag:stanfordPostag:vb hok
+Bacot bacot wordLength:5 Aaaaa Aa 1stLeftWord:ahok 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:belain 2ndLeftPostag:stanfordPostag:vb cot
+! wordLength:1 - 1stLeftWord:bacot 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:ahok 2ndLeftPostag:stanfordPostag:nn
+! wordLength:1 - 1stLeftWord:! 1stLeftPostag:stanfordPostag:, 2ndLeftWord:bacot 2ndLeftPostag:stanfordPostag:nn
+Jokower jokower wordLength:7 Aaaaaaa Aa 1stLeftWord:! 1stLeftPostag:stanfordPostag:, 2ndLeftWord:! 2ndLeftPostag:stanfordPostag:, wer
+tulul wordLength:5 aaaaa a 1stLeftWord:jokower 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:! 2ndLeftPostag:stanfordPostag:, lul
+! wordLength:1 - 1stLeftWord:tulul 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:jokower 2ndLeftPostag:stanfordPostag:jj
+! wordLength:1 - 1stLeftWord:! 1stLeftPostag:stanfordPostag:, 2ndLeftWord:tulul 2ndLeftPostag:stanfordPostag:rb
+>> wordLength:2 -- - 1stLeftWord:! 1stLeftPostag:stanfordPostag:, 2ndLeftWord:! 2ndLeftPostag:stanfordPostag:,
+@solosumba< wordLength:11 -aaaaaaaaa- -a- 1stLeftWord:>> 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:! 2ndLeftPostag:stanfordPostag:, ba<
+< wordLength:1 - 1stLeftWord:@solosumba< 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:>> 2ndLeftPostag:stanfordPostag:@
+@hartonosaja wordLength:12 -aaaaaaaaaaa -a 1stLeftWord:< 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:@solosumba< 2ndLeftPostag:stanfordPostag:@ aja
 
-hashtag -aaaaaa -a
-Aaaaaaa Aa
-Aaaaa Aa
-aa a
-AAA A
-Aaaaa Aa
-Aaaaa Aa
-Aaaaaaaa Aa
-Aaaaaa Aa
-link aaaa---a-aa-A000aa0Aaa a-a-a-A0a0Aa
+#blitar wordLength:7 -aaaaaa -a tar
+Ratusan ratusan wordLength:7 Aaaaaaa Aa 1stLeftWord:#blitar 1stLeftPostag:stanfordPostag:g san
+Makam makam wordLength:5 Aaaaa Aa 1stLeftWord:ratusan 1stLeftPostag:stanfordPostag:g 2ndLeftWord:#blitar 2ndLeftPostag:stanfordPostag:g kam
+di wordLength:2 aa a 1stLeftWord:makam 1stLeftPostag:stanfordPostag:g 2ndLeftWord:ratusan 2ndLeftPostag:stanfordPostag:g isStopword
+TPU tpu wordLength:3 AAA A 1stLeftWord:di 1stLeftPostag:stanfordPostag:g 2ndLeftWord:makam 2ndLeftPostag:stanfordPostag:g
+Tanah tanah wordLength:5 Aaaaa Aa 1stLeftWord:tpu 1stLeftPostag:stanfordPostag:g 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:g nah
+Kusir kusir wordLength:5 Aaaaa Aa 1stLeftWord:tanah 1stLeftPostag:stanfordPostag:g 2ndLeftWord:tpu 2ndLeftPostag:stanfordPostag:g sir
+Terendam terendam wordLength:8 Aaaaaaaa Aa 1stLeftWord:kusir 1stLeftPostag:stanfordPostag:g 2ndLeftWord:tanah 2ndLeftPostag:stanfordPostag:g dam
+Banjir banjir wordLength:6 Aaaaaa Aa 1stLeftWord:terendam 1stLeftPostag:stanfordPostag:e 2ndLeftWord:kusir 2ndLeftPostag:stanfordPostag:g jir
+http://t.co/Z695uk5Ccv http://t.co/z695uk5ccv wordLength:22 aaaa---a-aa-A000aa0Aaa a-a-a-A0a0Aa 1stLeftWord:banjir 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:terendam 2ndLeftPostag:stanfordPostag:e ccv
 
-Aaaaaaa Aa
-Aaaaaa Aa
--
-Aaaaa Aa
-Aaaaaa Aa
--
-Aaa Aa
-Aaaaaa Aa
-Aaaaaa Aa
-Aaaaaa Aa
-Aaaaaa Aa
-Aaa Aa
-Aaaaaa Aa
--
-Aaaa Aa
-aaaaaaaaaa a
--
-aaaaaa a
-aaaaa a
-aaaaaa a
---- -
-link aaaa---a-aa-aaaa0AAAa0 a-a-a-a0Aa0
+Polemik polemik wordLength:7 Aaaaaaa Aa mik
+Proton proton wordLength:6 Aaaaaa Aa 1stLeftWord:polemik 1stLeftPostag:stanfordPostag:@ ton
+: wordLength:1 - 1stLeftWord:proton 1stLeftPostag:stanfordPostag:@ 2ndLeftWord:polemik 2ndLeftPostag:stanfordPostag:@
+Menko menko wordLength:5 Aaaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:, 2ndLeftWord:proton 2ndLeftPostag:stanfordPostag:@ nko
+Sofyan sofyan wordLength:6 Aaaaaa Aa 1stLeftWord:menko 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:, yan
+: wordLength:1 - 1stLeftWord:sofyan 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:menko 2ndLeftPostag:stanfordPostag:vb
+Pak pak wordLength:3 Aaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:, 2ndLeftWord:sofyan 2ndLeftPostag:stanfordPostag:vb isStopword
+Jokowi jokowi wordLength:6 Aaaaaa Aa 1stLeftWord:pak 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:, owi
+Selalu selalu wordLength:6 Aaaaaa Aa 1stLeftWord:jokowi 1stLeftPostag:stanfordPostag:nnp 2ndLeftWord:pak 2ndLeftPostag:stanfordPostag:nn isStopword alu
+Bilang bilang wordLength:6 Aaaaaa Aa 1stLeftWord:selalu 1stLeftPostag:stanfordPostag:rb 2ndLeftWord:jokowi 2ndLeftPostag:stanfordPostag:nnp ang
+Esemka esemka wordLength:6 Aaaaaa Aa 1stLeftWord:bilang 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:selalu 2ndLeftPostag:stanfordPostag:rb mka
+Itu itu wordLength:3 Aaa Aa 1stLeftWord:esemka 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:bilang 2ndLeftPostag:stanfordPostag:vb isStopword
+Mobnas mobnas wordLength:6 Aaaaaa Aa 1stLeftWord:itu 1stLeftPostag:stanfordPostag:dt 2ndLeftWord:esemka 2ndLeftPostag:stanfordPostag:nn nas
+: wordLength:1 - 1stLeftWord:mobnas 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:itu 2ndLeftPostag:stanfordPostag:dt
+Bagi bagi wordLength:4 Aaaa Aa 1stLeftWord:: 1stLeftPostag:stanfordPostag:g 2ndLeftWord:mobnas 2ndLeftPostag:stanfordPostag:vb isStopword agi
+pemerintah wordLength:10 aaaaaaaaaa a 1stLeftWord:bagi 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:: 2ndLeftPostag:stanfordPostag:g isStopword tah
+, wordLength:1 - 1stLeftWord:pemerintah 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:bagi 2ndLeftPostag:stanfordPostag:vb
+konsep wordLength:6 aaaaaa a 1stLeftWord:, 1stLeftPostag:stanfordPostag:, 2ndLeftWord:pemerintah 2ndLeftPostag:stanfordPostag:nn sep
+mobil wordLength:5 aaaaa a 1stLeftWord:konsep 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:, 2ndLeftPostag:stanfordPostag:, bil
+nasion wordLength:6 aaaaaa a 1stLeftWord:mobil 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:konsep 2ndLeftPostag:stanfordPostag:nn ion
+... wordLength:3 --- - 1stLeftWord:nasion 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:mobil 2ndLeftPostag:stanfordPostag:nn
+http://t.co/yauk8QIZp5 http://t.co/yauk8qizp5 wordLength:22 aaaa---a-aa-aaaa0AAAa0 a-a-a-a0Aa0 1stLeftWord:... 1stLeftPostag:stanfordPostag:~ 2ndLeftWord:nasion 2ndLeftPostag:stanfordPostag:nn zp5
 
-Aaa Aa
-aaaa a
-aa a
-aaaa a
-aaaaaaaaaa a
-aaa a
-aaaaaa a
-aaaa a isRegion
--
--
-Aaaaaaa Aa
-Aaaaaaaaa Aa
--
-a-
-Aaa Aa
-Aaaa Aa
--
-Aaaaa Aa
--
--
-Aaa Aa
-Aaaaaa Aa
-Aaa Aa
-Aaaaaaa Aa
--
--
-link aaaaa---a-aa-aaaaaaAaa0 a-a-a-aAa0
+Mau mau wordLength:3 Aaa Aa isStopword
+dong wordLength:4 aaaa a 1stLeftWord:mau 1stLeftPostag:stanfordPostag:vb isStopword ong
+di wordLength:2 aa a 1stLeftWord:dong 1stLeftPostag:stanfordPostag:rp 2ndLeftWord:mau 2ndLeftPostag:stanfordPostag:vb isStopword
+ajak wordLength:4 aaaa a 1stLeftWord:di 1stLeftPostag:stanfordPostag:g 2ndLeftWord:dong 2ndLeftPostag:stanfordPostag:rp jak
+pacarannya wordLength:10 aaaaaaaaaa a 1stLeftWord:ajak 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:g nya
+itu wordLength:3 aaa a 1stLeftWord:pacarannya 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:ajak 2ndLeftPostag:stanfordPostag:vb isStopword
+liatin wordLength:6 aaaaaa a 1stLeftWord:itu 1stLeftPostag:stanfordPostag:dt 2ndLeftWord:pacarannya 2ndLeftPostag:stanfordPostag:vb lihat tin
+bumi wordLength:4 aaaa a 1stLeftWord:liatin 1stLeftPostag:stanfordPostag:nn 2ndLeftWord:itu 2ndLeftPostag:stanfordPostag:dt isRegion umi
+? wordLength:1 - 1stLeftWord:bumi 1stLeftPostag:stanfordPostag:pr 2ndLeftWord:liatin 2ndLeftPostag:stanfordPostag:nn
+? wordLength:1 - 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:bumi 2ndLeftPostag:stanfordPostag:pr
+Jupiter jupiter wordLength:7 Aaaaaaa Aa 1stLeftWord:? 1stLeftPostag:stanfordPostag:, 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:, ter
+Ascending ascending wordLength:9 Aaaaaaaaa Aa 1stLeftWord:jupiter 1stLeftPostag:stanfordPostag:g 2ndLeftWord:? 2ndLeftPostag:stanfordPostag:, ing
+( wordLength:1 - 1stLeftWord:ascending 1stLeftPostag:stanfordPostag:g 2ndLeftWord:jupiter 2ndLeftPostag:stanfordPostag:g
+w/ wordLength:2 a- insideBracket 1stLeftWord:( 1stLeftPostag:stanfordPostag:, 2ndLeftWord:ascending 2ndLeftPostag:stanfordPostag:g
+Evi evi wordLength:3 Aaa Aa insideBracket 1stLeftWord:w/ 1stLeftPostag:stanfordPostag:g 2ndLeftWord:( 2ndLeftPostag:stanfordPostag:,
+Dian dian wordLength:4 Aaaa Aa insideBracket 1stLeftWord:evi 1stLeftPostag:stanfordPostag:g 2ndLeftWord:w/ 2ndLeftPostag:stanfordPostag:g ian
+, wordLength:1 - insideBracket 1stLeftWord:dian 1stLeftPostag:stanfordPostag:g 2ndLeftWord:evi 2ndLeftPostag:stanfordPostag:g
+Windy windy wordLength:5 Aaaaa Aa insideBracket 1stLeftWord:, 1stLeftPostag:stanfordPostag:, 2ndLeftWord:dian 2ndLeftPostag:stanfordPostag:g ndy
+, wordLength:1 - insideBracket 1stLeftWord:windy 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:, 2ndLeftPostag:stanfordPostag:,
+& wordLength:1 - insideBracket 1stLeftWord:, 1stLeftPostag:stanfordPostag:, 2ndLeftWord:windy 2ndLeftPostag:stanfordPostag:vb
+Nur nur wordLength:3 Aaa Aa insideBracket 1stLeftWord:& 1stLeftPostag:stanfordPostag:cc 2ndLeftWord:, 2ndLeftPostag:stanfordPostag:,
+Chairi chairi wordLength:6 Aaaaaa Aa insideBracket 1stLeftWord:nur 1stLeftPostag:stanfordPostag:g 2ndLeftWord:& 2ndLeftPostag:stanfordPostag:cc iri
+Ria ria wordLength:3 Aaa Aa insideBracket 1stLeftWord:chairi 1stLeftPostag:stanfordPostag:g 2ndLeftWord:nur 2ndLeftPostag:stanfordPostag:g
+Isnaini isnaini wordLength:7 Aaaaaaa Aa insideBracket 1stLeftWord:ria 1stLeftPostag:stanfordPostag:g 2ndLeftWord:chairi 2ndLeftPostag:stanfordPostag:g ini
+) wordLength:1 - 1stLeftWord:isnaini 1stLeftPostag:stanfordPostag:g 2ndLeftWord:ria 2ndLeftPostag:stanfordPostag:g
+� wordLength:1 - 1stLeftWord:) 1stLeftPostag:stanfordPostag:, 2ndLeftWord:isnaini 2ndLeftPostag:stanfordPostag:g
+https://t.co/mzdimyQid3 https://t.co/mzdimyqid3 wordLength:23 aaaaa---a-aa-aaaaaaAaa0 a-a-a-aAa0 1stLeftWord:� 1stLeftPostag:stanfordPostag:g 2ndLeftWord:) 2ndLeftPostag:stanfordPostag:, id3
 
-hashtag -Aaaaaaaaaa -Aa
-Aaaaaaa Aa
-Aaaaa Aa
-aa a
-AAA A
-Aaaaa Aa
-Aaaaa Aa
-Aaaaaaaa Aa
-Aaaaaa Aa
-link aaaa---a-aa-0aaA0aAa0A a-a-a-0aA0aAa0A
+#Trenggalek #trenggalek wordLength:11 -Aaaaaaaaaa -Aa lek
+Ratusan ratusan wordLength:7 Aaaaaaa Aa 1stLeftWord:#trenggalek 1stLeftPostag:stanfordPostag:g san
+Makam makam wordLength:5 Aaaaa Aa 1stLeftWord:ratusan 1stLeftPostag:stanfordPostag:g 2ndLeftWord:#trenggalek 2ndLeftPostag:stanfordPostag:g kam
+di wordLength:2 aa a 1stLeftWord:makam 1stLeftPostag:stanfordPostag:g 2ndLeftWord:ratusan 2ndLeftPostag:stanfordPostag:g isStopword
+TPU tpu wordLength:3 AAA A 1stLeftWord:di 1stLeftPostag:stanfordPostag:g 2ndLeftWord:makam 2ndLeftPostag:stanfordPostag:g
+Tanah tanah wordLength:5 Aaaaa Aa 1stLeftWord:tpu 1stLeftPostag:stanfordPostag:g 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:g nah
+Kusir kusir wordLength:5 Aaaaa Aa 1stLeftWord:tanah 1stLeftPostag:stanfordPostag:g 2ndLeftWord:tpu 2ndLeftPostag:stanfordPostag:g sir
+Terendam terendam wordLength:8 Aaaaaaaa Aa 1stLeftWord:kusir 1stLeftPostag:stanfordPostag:g 2ndLeftWord:tanah 2ndLeftPostag:stanfordPostag:g dam
+Banjir banjir wordLength:6 Aaaaaa Aa 1stLeftWord:terendam 1stLeftPostag:stanfordPostag:e 2ndLeftWord:kusir 2ndLeftPostag:stanfordPostag:g jir
+http://t.co/1gcJ8sBw6B http://t.co/1gcj8sbw6b wordLength:22 aaaa---a-aa-0aaA0aAa0A a-a-a-0aA0aAa0A 1stLeftWord:banjir 1stLeftPostag:stanfordPostag:jj 2ndLeftWord:terendam 2ndLeftPostag:stanfordPostag:e w6b
 
-username -aaaaaaaaaaaaaa -a
-aa a
-aaaa a
-aaaaaaa a
-
-Aaaaa Aa
-aaaaaa a
-aaa a
--
--
-
-Aaaaaa Aa
-aaaaaaaa a
-aaaa a
-aaaaaaa a isRegion
-aaa a
-aaa a
-aaa a
----- -
-
--
--
-a-
-aaaaa a
--
-aaaa a
-aa a
--aaaaaaaa-aaaaa- -a-a-
--aaa -a
--
--
-link aaaaa---a-aa-aaAaaA0AAA a-a-a-aAaA0A
-
-Aaaaa Aa
-A
-Aaaaa Aa
-Aaaa Aa
-Aaaa Aa
--Aaa -Aa
-Aa
-Aaaa- Aa-
--
-Aaaaa Aa
-A
-aaaaaaaaa a
-aaaa a
-aaaa a
-aaaa a
-aaaa a
-aaaaa a
-aaaaaaaaaa a
-Aaaaaaa Aa isRegion
--
-Aaaa Aa
--
-a
---- -
-link aaaa---a-aa-a0aAaaAAAa a-a-a-a0aAaAa
-
-username -AaaaaAaaaaaa0 -AaAa0
-aaaaa a
-aaa a
-aa a
-aaaaaaaa a
-aaaa a
-aaaaaa a
-Aaa Aa
--
--
-Aaaa Aa
-
-Aaaa Aa
-aaa a
-aaaaa a
-aaa a
--
-username -aaaaaaa- -a-
--
-Aaaaaa Aa
-aaaa a
-aaaaaa a
--
-username -aaaaaaa- -a-
--
-Aaaaaaaa Aa
-aaa a
-aaaa a
-aa a
-aaa a
-aa a
-aaa a
-aaaa a
--
-aaaa a
-aaaaa a
-aaaaaaa a
-aaaaa a
--
--
-
--
-Aaaaaaa Aa
-aaa a
-aaa a
-aaaaaa a
-aaaa a
-aaaaaa a
-aaaa a
-aaaa a
-aaaaaaaa a
--
--
-Aaaaa Aa
--
-
-AAAA A
--
-Aaaaaa Aa
-aaaaaaaaa a
-aaaa a
-AAAAA-AAAA A-A
-0000 0
--
-00-0 0-0
--
-Aaaaaa Aa
-Aaaaaaaaa Aa
-Aaaaaa Aa
--
-Aaaaaa Aa
--
-Aaaaaaaa Aa
--
-aa a
-aaaa a
-link aaaa---a-aa-aaaAaaaaaa a-a-a-aAa
-hashtag -aaaaaaaaAAAAA -aA
-
-username -AaaaaAaaa -AaAa
-Aaa Aa
-A
--
-
-Aaaa Aa
-Aaaaa Aa
--A
--
-username -Aaa-Aaaaaaaaa -Aa-Aa
-Aa
-aaaaa a
-aaa a
-aa a
-aa a
-aa a
--
-username -Aaaa-Aaaaaaa -Aa-Aa
-Aa
-aaaa a
-aaaaa a
--
-username -Aaa-Aaaaaaaaa -Aa-Aa
-
-Aaaaaa Aa
--
-aaa a
-aaaaaa a
--
-Aaaa Aa
--
-Aaaaaaaa Aa isRegion
-Aaaaaaaa Aa
-Aaaaaaaaaaa Aa
-Aaaaaaaa Aa
-Aaaaaa Aa
--
-AAAA A
--
--
-Aaaaaa Aa
-0
--
-AAA A
-link aaaa---a-aa-AaAaAa0AaA a-a-a-AaAaAa0AaA
-
-Aaaaaaa Aa
-aaaaaaaaa a
-aaaaa a
-aaaaa a
--
-Aaaa Aa
-aaaaaaaa a
-aaaaaa a
-aaaa a
-aaaaa a
-aaa a
-aaaa a
-aaaaaa a
--A
-hashtag -Aaaaa -Aa
-
-Aaaa-aaaa Aa-a
-Aaaaaa Aa
--
-Aaaaaaaa Aa
-AAAA A
-00 0
-Aaaaaaa Aa isRegion
-Aaaaaa Aa
--
-Aaaaaaaaa Aa
-aaaaaa a
-aaaaaaaa a
-00 0
-Aa
--
-Aaaaaaa Aa
-aaa a
-aaaa a
-aaa a
-aaaaa a
---- -
-link aaaa---a-aa-aaa0aaaaaA a-a-a-a0aA
-
-AAAAAAA A
-AAAAA A
--
-aaaa a
-hashtag -AaaaAaaaa -AaAa
-00a 0a
-Aaaa Aa
-aaaaaaaaa a
-aaa a
-aa a
-000000000000 0
--
-hashtag -Aaaaaa -Aa
-hashtag -AaaaAaaaa -AaAa
-hashtag -Aaaa -Aa
-hashtag -Aaaaa -Aa
-link aaaa---a-aa-A0AaaaAAaA a-a-a-A0AaAaA
-
-username -aaaaaaaaaaaaaaa -a
-aaaaaa a
-aaaaaa a
--
--
--
-aaaa a
-aaa a
-aaaaa a
-a
-aaaaaa a
-aaa a
-aa a
--
--
--
-
-Aaaa Aa
-aaaaa a
-aaaaaaaa a
-aaaa a
-aaaa a
-aa a
-Aaaaaaaa Aa
-link aaaa---a-aa-aaaaAAaa0a a-a-a-aAa0a
-
-Aaaaaaaaa Aa
-aaa a
-00 0
-Aaaaaaa Aa
-AAAAAA A
-AAAAAAAAA A
-0
-aaaa a
-aa a
-AAAAAAA A
--
-aaa a
-0
-Aaaaa Aa
-Aa000aa Aa0a
--
-Aaa Aa
--
--
--
-hashtag -AaaaaaaaaAaaa -AaAa
-
-Aaaaaaaa Aa
-aaaaaaaa a
-aaaaaaaa a
-aaaa a
-aaaaaaaaa a
-aaaaaaaaaaaa a
--
-aaaaaaaaa a
-aaaa a
-Aaaa Aa
-aaaaa a
-aaaaaaa a
-aaaa a
-aaaaaaaaaaaa a
-aaa a
--
-
-Aaaaaa Aa
-aaaa a
-aaaa a
-aaaaaaaa a
-aaaaa a
-aaaa a
--
-aaaaa a
-aaaaa a
-aaaaaaaaaaaa a
-aaa a
-hashtag -aaaaaaa -a
--
-aaaa a
-Aaaa Aa
--
--aaa -a
--
--
-link aaaaa---a-aa-aaaa0AAaaA a-a-a-a0AaA
-
-Aaaaaa Aa
--
-aaaa a
-AA A
-username -AAAA-AA -A-A
--
-Aaaaaa Aa
-Aaaa Aa
-username -aaaaaa -a
-Aaaaaaa Aa isRegion
-Aaaaa Aa
-Aaaaa Aa isRegion
--
-link aaaa---a-aa-aaaaAaAaAA a-a-a-aAaAaA
-link aaaa---a-aa-aa0aaAaAAA a-a-a-a0aAaA
-
-aaaaaaa a
-aaaa a
-aaaaa a
-aaaa a
--
-aaaaaaaa a
-aaaaa a
-aaaaaa a
-aaa a
--
-aaaaaaa a
-aaa a isRegion
-aaaaaaa a
--
-aaa00 a0
--
-
--
-Aaaaa- Aa-
-Aaaaaaaaa Aa isRegion
--
-link aaaa---a-aa-0a0aAAaAaa a-a-a-0a0aAaAa
-
-Aaaaaa Aa
-aaa a
-aaaaaaaa a
-aaaa a
-aaaa a
-aaaaa a
-AAA-aaaa A-a
-aaaaaaaa a
-aaaa a
-aaaa a
-aaa a
-aa a
-AAAAA A
-Aaaaaaaa Aa
-aaaa a
-aaaa a
--
--a
-
--
-username -Aaaaaa-aaaa -Aa-a
--
-0
-aaaaaa a
-aaa a
-aa a
-aaaaa a
-aaa a
-aaaaa a
-00aa-aaa 0a-a
---aaaaa -a
-aaa a
-aaaaa- a-
--
-link aaaa---a-aa-a0AaaAAAAA- a-a-a-a0AaA-
-
-Aaaa Aa
-aaaaaaa a
-aa a
-aaa a
-aa a
-aaaaa a
--- -
-aaa a
-aaaa a
-aaaaa a
-aaaaa a
-aaaaaaaaa a
-aaa a
-aaaaaa a
--
-Aaaaa Aa
-aaaa a
-aaaa a
-aaaaaaa a
--
-aaaaaa a
-aaaaa a
--
-aaaaa a
-aaaa a
-aaa a
--
--
--- -
--
--
--
-
-aaaaa a
-aa a
--
-aaaaaaaaa a
-aaaaaaaa a
-aa a
-AA A
-aaaa a
--
-aaa a
-aaaa a
-aaaaa a
--
--
--
-aaaaa a
-
-hashtag -aaaaaaaaaaaaa -a
--
-aaaaaa a
-aaaa a
-aa a
-aaaaaaa a
-aaaa a
-aaaaaaaa a
--
-
-Aaaaaa Aa
-aaaa a
-a
-aaaaaa a
--
-a-
-Aaaaaa Aa
--
-Aaaa Aa
--
--
-A
-aa a
-username -aaaa -a
-Aaaaaaa Aa
-Aaaaa Aa
-aa a
-Aaaa Aa
-Aa
--
-AA A
-Aaaaaaa Aa
-Aaaaa Aa
-Aaaaa Aa
-Aaaaaaaaa Aa isRegion
--
--
-link aaaaa---a-aa-aAaa0AAAAA a-a-a-aAa0A
-
-Aaaa Aa
-aaaaa a
-0000-aaaaaaa 0-a
-aaaa a
-aaaaaa a
--
--
-Aaaaaaaa Aa
-aaa a
-aa a
-aaaa a
-aaaaaaa a
-aaaa a
-aa a
-aaaaaaa a
-link aaaa---a-aa-0AaAaaAAaA a-a-a-0AaAaAaA
-
-username -aaaaaaaAAA00 -aA0
-aaaaa a
-aaaaa a
-aaa a
-aaaa a
-aaaaaaa a
-aaaaa a
-aa a
-aaaaa a
-aaaa a
-aaaaaa a
-aaaaaa a
-aaaaaa a
-aaaa a
-aaa a
-aaaa a
-aaaaaa a
-aaaaaaa a
-aaaaa a
-
-Aa
-aaaa a
--
--
-username -aaaaaaaaaaaaaa -a
--
-username -AaaaaaAaaaaaaa -AaAa
-aaa a
--aaa -a
-aaaa a
-aaa a
-aaaa a
-aaaaaaaaa a
-aa a
-aaaaa a
-AaaAaa AaAa
--aaaaaaa -a
-aaa a
-aaaa a
-aaaa a
--
-
-Aaaaa-- Aa-
--
-username -AaaaaAaaaaa -AaAa
--
-Aaaaa Aa
-aa a
-Aaaaaaaaa Aa isRegion
-aaaa a
-aaaa-aaaa a-a
-aaaaaaa a
-00 0
-aaaaa a
-aaaaaaaaa a
-aaa a
-aaaa a
-aaaaa a
-aaaaaa a
-aaaaaaaa a
-Aaaaaaaaa Aa isRegion
--
--
-
-Aaaaa Aa
-aa a
-aaaaaaa a
-aaaaa a
-aaaaa a
-aaaaaaaa a
--
-
-username -aaaaaaaaa -a
-aaaaaa a
-aaaaa a isRegion
-aaa a
-aaaaa a isRegion
--aaaaaaaa -a
--
-aaaaa a
-aa a
-aaaaaaaa a
-aaaa a
--aaaaaaa -a
-aaaa a
-aaaaa a isRegion
-aaaaa a
-aaaaa a
-aaa a
-aaaaaaaa a
-
-Aaaaa Aa
-aaaaa a
-aaa a
-aaaaaa a
-aaaaaaaa a isRegion
--
-aa a
-aaaa a
-aaaaa a
-aaa a
-aaaa a
-aaaaa a
-aaaa a
-aaaaaa a
-aaa a
-aa a
-aaaaaa a
--
+@lalalalaykaaaa wordLength:15 -aaaaaaaaaaaaaa -a aaa
+di wordLength:2 aa a 1stLeftWord:@lalalalaykaaaa 1stLeftPostag:stanfordPostag:g isStopword
+kasi wordLength:4 aaaa a 1stLeftWord:di 1stLeftPostag:stanfordPostag:g 2ndLeftWord:@lalalalaykaaaa 2ndLeftPostag:stanfordPostag:g asi
+maingat wordLength:7 aaaaaaa a 1stLeftWord:kasi 1stLeftPostag:stanfordPostag:vb 2ndLeftWord:di 2ndLeftPostag:stanfordPostag:g gat
 

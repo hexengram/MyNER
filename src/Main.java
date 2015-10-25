@@ -1,33 +1,81 @@
 
 import Tagger.SimpleTagger;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
+ * Example main class for MyNER
  *
  * @author Natanael Taufik
  */
 public class Main {
     public static void main(String[] args) {
+        String combinationNumber = "111011011101";
+        String input = "data\\corpus\\dummy.txt";
+        String output = "data\\output\\dummy.txt";
+        String modelLoc = "data\\model\\111011011101.mod";
+        String crfLoc = "data\\CRFs\\input.crf";
+        
         System.out.println("Starting...");
         
-        // proses corpus jadi file input crf
+        TokenizerMyner tok = new TokenizerMyner("test", input);
         
-        ArrayList<String> results = new ArrayList();
-        SimpleTagger tagger = new SimpleTagger();
-        String[] tagArgs = {"--model-file","data\\model\\111011011101.mod","data\\CRFs\\input.crf"};
+        Features features = new Features(tok.getTokenizedLines(), tok.getMode());
+        ArrayList<String> extractedFeatures = features.getFeatures(combinationNumber);
+        
+        // Write the features into file.
+        FileWriter out = null;
         try {
-            tagger.arguments(tagArgs, results);
+            out = new FileWriter(crfLoc);
+            
+            for (String word : extractedFeatures) {
+                out.write(word + "\n");
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                if (out != null)
+                    out.close();
+            } catch (IOException ex) {
+                Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+        
+        // CRF MALLET
+        ArrayList<String> crfResults = new ArrayList();
+        SimpleTagger tagger = new SimpleTagger();
+        String[] tagArgs = {"--model-file",modelLoc,crfLoc};
+        try {
+            tagger.arguments(tagArgs, crfResults);
         } catch (Exception ex) {
             Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
         }
         
-        System.out.println("Finished...");
-        
-        for (String result : results) {
-            System.out.println(result);
+        // Write the results into file.
+        ArrayList<String> results = tok.retractSegment(crfResults);
+        FileWriter outResult = null;
+        try {
+            outResult = new FileWriter(output);
+            
+            for (String sentence : results) {
+                outResult.write(sentence + "\n");
+            }
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                if (outResult != null)
+                    outResult.close();
+            } catch (IOException ex) {
+                Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }
+        
+        System.out.println("Finished...");
     }
     
 }
