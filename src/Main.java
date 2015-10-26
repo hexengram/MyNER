@@ -18,12 +18,23 @@ public class Main {
         String output = "data\\output\\dummy.txt";
         String modelLoc = "data\\model\\111011011101.mod";
         String crfLoc = "data\\CRFs\\input.crf";
+        String opennlpModelLoc = "opennlp\\model\\en-token.bin";
+        String stanfordModelLoc = "stanford-postagger\\indonesianTweetStanfordModel";
+        String regDicLoc = "dictionary\\region.dic";
+        String stpDicLoc = "dictionary\\stopword.dic";
+        String abbDicLoc = "dictionary\\abbreviation.dic";
         
         System.out.println("Starting...");
         
-        TokenizerMyner tok = new TokenizerMyner("test", input);
+        TokenizerMyner tok = new TokenizerMyner("test", input, opennlpModelLoc);
         
         Features features = new Features(tok.getTokenizedLines(), tok.getMode());
+        features.setStanfordModelLoc(stanfordModelLoc);
+        features.setRegionDicLoc(regDicLoc);
+        features.setStpDicLoc(stpDicLoc);
+        features.setAbbDicLoc(abbDicLoc);
+        features.buildFeatures();
+        
         ArrayList<String> extractedFeatures = features.getFeatures(combinationNumber);
         
         // Write the features into file.
